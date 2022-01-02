@@ -31,9 +31,12 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/assu_umi/Documents/Program/my-first-angular-app/node_modules/bootstrap/dist/css/bootstrap.rtl.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -99,9 +102,12 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/assu_umi/Documents/Program/my-first-angular-app/node_modules/bootstrap/dist/css/bootstrap.rtl.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           }
         }
       }
